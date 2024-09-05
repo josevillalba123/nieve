@@ -1,0 +1,94 @@
+*{
+    border: 0; padding: 0;
+}
+body{
+    background-color: brown;
+}
+#cara{
+    height: 80px;
+    width: 80px;
+    margin: auto;
+    background-color: beige;
+    border-radius: 100px;
+    border-style: solid;
+}
+#ojo1{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 100px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+#ojo2{
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 100px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+#cuerpo{
+    height: 150px;
+    width: 150px;
+    background-color: beige;
+    margin: auto;
+    border-radius: 100px;
+    border-style: solid;
+}
+#piernas{
+    height: 230px;
+    width: 230px;
+    background-color: beige;
+    margin: auto;
+    border-radius: 200px;
+    border-style: solid;
+}
+#palito1{
+    height: 10px;
+    width: 60px;
+    background-color: chocolate;
+    float:right;
+    margin-right: 150px;
+    margin-top: 60px;
+    
+}
+#palito2{
+    height: 10px;
+    width: 60px;
+    background-color: chocolate;
+    float:left;
+    margin-left: 150px;
+    margin-top: 0px;
+    
+}
+#cuerpo1{
+    height: 150px;
+    width: 150px;
+    background-color: beige;
+    margin: auto;
+    border-radius: 100px;
+    border-style: solid;
+}
+
+#sombrero{
+    left: 100px;
+    height: 30px;
+    width: 90px;
+    margin: auto;
+    background-color: black;
+    border-radius: 100px;
+    border-style: solid;
+}
+
+#sombrero1{
+    left: 100px;
+    height: 90px;
+    width: 60px;
+    margin: auto;
+    background-color: black;
+    border-style: solid;
+}
